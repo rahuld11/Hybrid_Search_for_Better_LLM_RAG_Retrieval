@@ -1,4 +1,4 @@
-Building an advanced local LLM RAG pipeline by combining dense embeddings with BM25
+Building an advanced local LLM RAG pipeline by combining dense embeddings with BM25,SentenceTransformer in Python environment
 
 -  Author : Rahul11
 
